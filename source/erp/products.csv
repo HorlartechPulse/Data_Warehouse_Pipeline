@@ -1,0 +1,11 @@
+product_id,product_name,category,list_price,cost
+1,Phone Case,Electronics,2500,1125.0
+2,Earbuds,Electronics,8900,4005.0
+3,Power Bank,Electronics,12000,5400.0
+4,Sneakers,Fashion,22000,9900.0
+5,T-Shirt,Fashion,4500,2025.0
+6,Desk Lamp,Home,9500,4275.0
+7,Pillow Set,Home,15000,6750.0
+8,Coffee 1kg,Grocery,6500,2925.0
+9,Tea Box,Grocery,3200,1440.0
+10,Cap,Fashion,3500,1575.0
